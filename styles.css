@@ -1,0 +1,36 @@
+img{
+  width: 300px;
+  height: auto;
+}
+
+.dark-background{
+  background-color: #1F2833;
+}
+
+.blue-text{
+  color: #66fcf1;
+}
+.white-text{
+  color: #C5C6C7;
+}
+h1{
+  text-align: center;
+  font-size: 60px;
+  font-family: Raleway;
+}
+.centered-text{
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  font-size: 24px;
+}
+
+a:hover{
+  color: #66fcf1;
+  font-weight: bold;
+}
