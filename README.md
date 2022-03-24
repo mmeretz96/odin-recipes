@@ -1,5 +1,7 @@
 Recipe website using just HTML
 
+Live Preview: https://tonums.github.io/odin-recipes/
+
 What i've used/learned:
 
 - html boilerplate
