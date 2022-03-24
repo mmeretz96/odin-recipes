@@ -8,3 +8,7 @@ What i've used/learned:
 - links to different files
 - unordered and ordered lists
 - images
+- styling with css
+- css selectors
+- linking css to the file
+- css cascade
